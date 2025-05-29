@@ -1,3 +1,3 @@
 # Olá, Mundo!
-# Oláselect * from titulos order by  codtit asc limit 3, Mundo!
+# Estou aprendendo a usar o Git e o GitHub
 Primeiro Repositorio 
